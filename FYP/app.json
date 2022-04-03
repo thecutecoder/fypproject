@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "FYP",
+    "slug": "FYP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "FYP"
+}
